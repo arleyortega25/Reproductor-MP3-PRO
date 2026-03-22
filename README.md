@@ -23,4 +23,4 @@ Este es un reproductor de música moderno construido con **Python**, utilizando 
 
 ## Portadas de las canciones
 
-Se puede elegir la imagen de la portada de la cancion ubicando en una carpeta la cancion en formato **.mp3** junto con la imagen de portada que se desee elegir mientras este en los formatos **.jpg**, **jpeg**, o **.png**  y es importante que la imgen de portada tenga como nombre **cover**, de no tener imagen de portada simplemente aparecera la imagen predeterminada.
+Se puede elegir la imagen de la portada de la cancion ubicando en la carpeta **canciones** una carpeta la cancion en formato **.mp3** junto con la imagen de portada que se desee elegir mientras este en los formatos **.jpg**, **jpeg**, o **.png**  y es importante que la imgen de portada tenga como nombre **cover**, de no tener imagen de portada simplemente aparecera la imagen predeterminada.
